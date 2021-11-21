@@ -1,3 +1,6 @@
+---
+title: Main Cases
+---
 title: Main Cases
 ===
 Gin
