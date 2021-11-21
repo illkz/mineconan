@@ -1,7 +1,7 @@
 ---
 title: Main Cases
 ---
-##Gin
+Gin
 ---
 | ep | 案件 |
 | ---- | ---- |
